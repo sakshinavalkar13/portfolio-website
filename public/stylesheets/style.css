@@ -1,0 +1,22 @@
+.custom-img-container img {
+    max-width: 100px;
+  }
+  
+  @media (min-width: 640px) {
+    .custom-img-container img {
+      max-width: 150px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .custom-img-container img {
+      max-width: 200px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .custom-img-container img {
+      max-width: 250px;
+    }
+  }
+  
